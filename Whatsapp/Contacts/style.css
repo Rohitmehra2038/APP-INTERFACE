@@ -1,0 +1,264 @@
+.contacts {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.contacts .div {
+  background-color: #ffffff;
+  width: 360px;
+  height: 800px;
+  position: relative;
+}
+
+.contacts .overlap-group {
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  top: 100px;
+  left: 0;
+}
+
+.contacts .div-2 {
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.contacts .name {
+  position: absolute;
+  top: 19px;
+  left: 73px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contacts .ellipse {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 20px;
+  left: 20px;
+  object-fit: cover;
+}
+
+.contacts .contact-no {
+  position: absolute;
+  top: 43px;
+  left: 73px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contacts .component {
+  top: 180px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.contacts .component-2 {
+  top: 260px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.contacts .component-3 {
+  top: 340px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.contacts .component-4 {
+  top: 420px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.contacts .component-5 {
+  top: 500px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.contacts .component-6 {
+  top: 580px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.contacts .component-7 {
+  top: 660px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.contacts .component-8 {
+  top: 740px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.contacts .component-9 {
+  top: 820px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.contacts .component-10 {
+  top: 900px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.contacts .component-11 {
+  top: 980px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.contacts .component-12 {
+  top: 1060px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.contacts .rectangle {
+  width: 360px;
+  height: 100px;
+  top: 0;
+  position: fixed;
+  left: 0;
+  background-color: #054d47;
+}
+
+.contacts .rectangle-2 {
+  width: 120px;
+  height: 40px;
+  top: 60px;
+  position: fixed;
+  left: 0;
+  background-color: #054d47;
+}
+
+.contacts .text-wrapper {
+  position: fixed;
+  top: 67px;
+  left: 5px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contacts .apps-list-undefined {
+  position: fixed;
+  width: 24px;
+  height: 24px;
+  top: 26px;
+  left: 321px;
+}
+
+.contacts .union {
+  position: fixed;
+  width: 24px;
+  height: 24px;
+  top: 26px;
+  left: 287px;
+  background-image: url(./img/union.svg);
+  background-size: 100% 100%;
+}
+
+.contacts .battery-undefined {
+  position: fixed;
+  width: 24px;
+  height: 24px;
+  top: -5px;
+  left: 336px;
+}
+
+.contacts .frame {
+  position: fixed;
+  width: 360px;
+  height: 15px;
+  top: 0;
+  left: 0;
+}
+
+.contacts .wifi-undefined {
+  position: fixed;
+  width: 20px;
+  height: 20px;
+  top: -3px;
+  left: 315px;
+}
+
+.contacts .weather-snow-shower {
+  position: fixed;
+  width: 20px;
+  height: 20px;
+  top: -3px;
+  left: 294px;
+}
+
+.contacts .arrow-export-RTL {
+  position: fixed;
+  width: 24px;
+  height: 24px;
+  top: 26px;
+  left: 15px;
+}
