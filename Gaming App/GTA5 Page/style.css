@@ -1,0 +1,265 @@
+.GTA-v-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.GTA-v-page .overlap-wrapper {
+  background-color: #ffffff;
+  width: 360px;
+  height: 800px;
+}
+
+.GTA-v-page .overlap {
+  position: relative;
+  height: 800px;
+}
+
+.GTA-v-page .image {
+  position: absolute;
+  width: 360px;
+  height: 432px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.GTA-v-page .background {
+  position: absolute;
+  width: 360px;
+  height: 440px;
+  top: 360px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 30px;
+}
+
+.GTA-v-page .title {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 360px;
+  left: 123px;
+}
+
+.GTA-v-page .grand-theft-auto-v {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Impact-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.GTA-v-page .text-wrapper {
+  color: #000000d9;
+}
+
+.GTA-v-page .span {
+  color: #000000cc;
+}
+
+.GTA-v-page .description {
+  display: flex;
+  flex-direction: column;
+  width: 290px;
+  height: 122px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 457px;
+  left: 35px;
+}
+
+.GTA-v-page .GAME-OVERVIEW {
+  position: relative;
+  width: 230px;
+  margin-top: -6px;
+  margin-bottom: -4px;
+  font-family: "Antic Didone-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000cc;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.GTA-v-page .text-wrapper-2 {
+  font-family: "Antic Didone-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000cc;
+  font-size: 12px;
+  letter-spacing: 0;
+}
+
+.GTA-v-page .text-wrapper-3 {
+  font-family: "Antic-Regular", Helvetica;
+}
+
+.GTA-v-page .frame {
+  display: flex;
+  flex-direction: column;
+  width: 140px;
+  height: 48px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 584px;
+  left: 111px;
+  background-color: #ff8900;
+  border-radius: 30px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.GTA-v-page .div {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000d9;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.GTA-v-page .overlap-group-wrapper {
+  position: absolute;
+  width: 350px;
+  height: 126px;
+  top: 669px;
+  left: 5px;
+  border-radius: 25px;
+  overflow: hidden;
+  background: linear-gradient(180deg, rgb(217, 217, 217) 0%, rgba(255, 137.7, 0, 0.85) 98.12%);
+}
+
+.GTA-v-page .overlap-group {
+  position: relative;
+  width: 320px;
+  height: 126px;
+  left: 30px;
+}
+
+.GTA-v-page .frame-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+
+.GTA-v-page .PUBG-tournament-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.GTA-v-page .PUBG-tournament {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.GTA-v-page .div-wrapper {
+  display: flex;
+  width: 100px;
+  height: 38px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  background-color: #ff8900cc;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.GTA-v-page .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000d9;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.GTA-v-page .element-removebg {
+  position: absolute;
+  width: 182px;
+  height: 126px;
+  top: 0;
+  left: 138px;
+  object-fit: cover;
+}
+
+.GTA-v-page .navigation-bar {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 247px;
+  position: absolute;
+  top: 15px;
+  left: 13px;
+}
+
+.GTA-v-page .back-button {
+  position: relative;
+  width: 44px;
+  height: 44px;
+}
+
+.GTA-v-page .menu-button {
+  display: flex;
+  width: 44px;
+  height: 44px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  background-color: #ff8900bf;
+  border-radius: 50px;
+  border: 1px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0)) 1;
+}
+
+.GTA-v-page .density-medium {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
