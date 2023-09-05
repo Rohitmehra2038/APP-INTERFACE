@@ -1,0 +1,332 @@
+.chats {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.chats .div {
+  background-color: #ffffff;
+  width: 360px;
+  height: 800px;
+  position: relative;
+}
+
+.chats .overlap-group {
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  top: 100px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.chats .component {
+  position: relative;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.chats .name {
+  position: absolute;
+  top: 19px;
+  left: 73px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.chats .ellipse {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 20px;
+  left: 20px;
+  object-fit: cover;
+}
+
+.chats .contact-no {
+  position: absolute;
+  top: 43px;
+  left: 73px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.chats .component-2 {
+  position: absolute;
+  width: 360px;
+  top: 180px;
+  left: 0;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.chats .component-3 {
+  position: absolute;
+  width: 360px;
+  top: 260px;
+  left: 0;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.chats .component-4 {
+  position: absolute;
+  width: 360px;
+  top: 340px;
+  left: 0;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.chats .component-5 {
+  position: absolute;
+  width: 360px;
+  top: 420px;
+  left: 0;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.chats .component-6 {
+  position: absolute;
+  width: 360px;
+  top: 500px;
+  left: 0;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.chats .component-7 {
+  position: absolute;
+  width: 360px;
+  top: 580px;
+  left: 0;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.chats .component-8 {
+  position: absolute;
+  width: 360px;
+  top: 660px;
+  left: 0;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.chats .text-wrapper {
+  position: absolute;
+  top: 43px;
+  left: 73px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.chats .component-9 {
+  position: absolute;
+  width: 360px;
+  top: 740px;
+  left: 0;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.chats .component-10 {
+  position: absolute;
+  width: 360px;
+  top: 820px;
+  left: 0;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.chats .component-11 {
+  position: absolute;
+  width: 360px;
+  top: 900px;
+  left: 0;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.chats .component-12 {
+  position: absolute;
+  width: 360px;
+  top: 980px;
+  left: 0;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.chats .component-13 {
+  position: absolute;
+  width: 360px;
+  top: 1060px;
+  left: 0;
+  height: 80px;
+  background-color: #ffffff;
+}
+
+.chats .chat-add-undefined {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 728px;
+  left: 290px;
+}
+
+.chats .rectangle {
+  position: fixed;
+  width: 360px;
+  height: 100px;
+  top: 0;
+  left: 0;
+  background-color: #085b53;
+  border-radius: 10px;
+}
+
+.chats .rectangle-2 {
+  position: fixed;
+  width: 120px;
+  height: 30px;
+  top: 70px;
+  left: 0;
+  background-color: #054d47e6;
+}
+
+.chats .rectangle-3 {
+  position: fixed;
+  width: 120px;
+  height: 30px;
+  top: 70px;
+  left: 240px;
+  background-color: #054d47e6;
+}
+
+.chats .rectangle-4 {
+  position: fixed;
+  width: 120px;
+  height: 30px;
+  top: 70px;
+  left: 120px;
+  background-color: #054d47e6;
+}
+
+.chats .text-wrapper-2 {
+  position: fixed;
+  top: 72px;
+  left: 276px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.chats .text-wrapper-3 {
+  position: fixed;
+  top: 72px;
+  left: 148px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.chats .text-wrapper-4 {
+  position: fixed;
+  width: 60px;
+  top: 72px;
+  left: 31px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chats .apps-list-undefined {
+  position: fixed;
+  width: 24px;
+  height: 24px;
+  top: 26px;
+  left: 321px;
+}
+
+.chats .union {
+  position: fixed;
+  width: 24px;
+  height: 24px;
+  top: 26px;
+  left: 287px;
+  background-image: url(./img/union-2.svg);
+  background-size: 100% 100%;
+}
+
+.chats .union-2 {
+  position: fixed;
+  width: 24px;
+  height: 24px;
+  top: 26px;
+  left: 287px;
+  background-image: url(./img/union.svg);
+  background-size: 100% 100%;
+}
+
+.chats .battery-undefined {
+  position: fixed;
+  width: 24px;
+  height: 24px;
+  top: -5px;
+  left: 336px;
+}
+
+.chats .frame {
+  position: fixed;
+  width: 360px;
+  height: 15px;
+  top: 0;
+  left: 0;
+}
+
+.chats .wifi-undefined {
+  position: fixed;
+  width: 20px;
+  height: 20px;
+  top: -3px;
+  left: 315px;
+}
+
+.chats .weather-snow-shower {
+  position: fixed;
+  width: 20px;
+  height: 20px;
+  top: -3px;
+  left: 294px;
+}
