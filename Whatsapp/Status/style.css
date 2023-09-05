@@ -1,0 +1,281 @@
+.status {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.status .div {
+  background-color: #ffffff;
+  width: 360px;
+  height: 800px;
+  position: relative;
+}
+
+.status .overlap-group {
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  top: 102px;
+  left: 0;
+}
+
+.status .component {
+  position: absolute;
+  height: 80px;
+  top: 0;
+  background-color: #205c5433;
+  width: 360px;
+  left: 0;
+}
+
+.status .name {
+  position: absolute;
+  top: 19px;
+  left: 73px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.status .ellipse {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 20px;
+  left: 20px;
+  object-fit: cover;
+}
+
+.status .camera-add-undefined {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+  top: 24px;
+  left: 314px;
+}
+
+.status .component-2 {
+  position: absolute;
+  height: 80px;
+  top: 182px;
+  background-color: #ffffff;
+  width: 360px;
+  left: 0;
+}
+
+.status .component-3 {
+  position: absolute;
+  height: 80px;
+  top: 262px;
+  background-color: #ffffff;
+  width: 360px;
+  left: 0;
+}
+
+.status .component-4 {
+  position: absolute;
+  height: 80px;
+  top: 342px;
+  background-color: #ffffff;
+  width: 360px;
+  left: 0;
+}
+
+.status .component-5 {
+  position: absolute;
+  height: 80px;
+  top: 422px;
+  background-color: #ffffff;
+  width: 360px;
+  left: 0;
+}
+
+.status .component-6 {
+  position: absolute;
+  height: 80px;
+  top: 502px;
+  background-color: #ffffff;
+  width: 360px;
+  left: 0;
+}
+
+.status .component-7 {
+  position: absolute;
+  height: 80px;
+  top: 582px;
+  background-color: #ffffff;
+  width: 360px;
+  left: 0;
+}
+
+.status .component-8 {
+  position: absolute;
+  height: 80px;
+  top: 662px;
+  background-color: #ffffff;
+  width: 360px;
+  left: 0;
+}
+
+.status .component-9 {
+  position: absolute;
+  height: 80px;
+  top: 742px;
+  background-color: #ffffff;
+  width: 360px;
+  left: 0;
+}
+
+.status .component-10 {
+  position: absolute;
+  height: 80px;
+  top: 822px;
+  background-color: #ffffff;
+  width: 360px;
+  left: 0;
+}
+
+.status .component-11 {
+  position: absolute;
+  height: 80px;
+  top: 902px;
+  background-color: #ffffff;
+  width: 360px;
+  left: 0;
+}
+
+.status .component-12 {
+  position: absolute;
+  height: 80px;
+  top: 982px;
+  background-color: #ffffff;
+  width: 360px;
+  left: 0;
+}
+
+.status .component-13 {
+  position: absolute;
+  height: 80px;
+  top: 1062px;
+  background-color: #ffffff;
+  width: 360px;
+  left: 0;
+}
+
+.status .img {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 732px;
+  left: 297px;
+}
+
+.status .rectangle {
+  position: fixed;
+  width: 360px;
+  height: 100px;
+  top: 2px;
+  left: 0;
+  background-color: #085b53;
+}
+
+.status .component-14 {
+  position: fixed;
+  height: 24px;
+  top: 0;
+  width: 360px;
+  left: 0;
+}
+
+.status .vector {
+  position: fixed;
+  width: 20px;
+  height: 20px;
+  top: 28px;
+  left: 325px;
+}
+
+.status .rectangle-2 {
+  position: fixed;
+  width: 120px;
+  height: 30px;
+  top: 72px;
+  left: 0;
+  background-color: #054d47;
+}
+
+.status .rectangle-3 {
+  position: fixed;
+  width: 120px;
+  height: 30px;
+  top: 72px;
+  left: 240px;
+  background-color: #054d47;
+}
+
+.status .rectangle-4 {
+  position: fixed;
+  width: 120px;
+  height: 30px;
+  top: 72px;
+  left: 120px;
+  background-color: #054d47;
+}
+
+.status .text-wrapper {
+  position: fixed;
+  top: 74px;
+  left: 276px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.status .text-wrapper-2 {
+  position: fixed;
+  top: 74px;
+  left: 147px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.status .text-wrapper-3 {
+  position: fixed;
+  top: 74px;
+  left: 31px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.status .union {
+  position: fixed;
+  width: 24px;
+  height: 24px;
+  top: 28px;
+  left: 291px;
+  background-image: url(./img/union.svg);
+  background-size: 100% 100%;
+}
