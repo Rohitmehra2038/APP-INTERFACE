@@ -1,0 +1,290 @@
+.calls {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.calls .div {
+  background-color: #ffffff;
+  width: 360px;
+  height: 800px;
+  position: relative;
+}
+
+.calls .overlap {
+  top: 102px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+}
+
+.calls .component {
+  position: absolute;
+  height: 80px;
+  background-color: #ffffff;
+  width: 360px;
+  top: 0;
+  left: 0;
+}
+
+.calls .name {
+  position: absolute;
+  top: 19px;
+  left: 73px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.calls .ellipse {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 20px;
+  left: 20px;
+  object-fit: cover;
+}
+
+.calls .contact-no {
+  position: absolute;
+  top: 43px;
+  left: 73px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.calls .call-inbound {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 28px;
+  left: 324px;
+}
+
+.calls .overlap-group {
+  top: 182px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+}
+
+.calls .vector {
+  position: absolute;
+  top: 30px;
+  left: 326px;
+  width: 20px;
+  height: 20px;
+}
+
+.calls .overlap-2 {
+  top: 262px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+}
+
+.calls .overlap-3 {
+  top: 342px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+}
+
+.calls .overlap-4 {
+  top: 422px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+}
+
+.calls .overlap-5 {
+  top: 502px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+}
+
+.calls .overlap-6 {
+  top: 582px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+}
+
+.calls .overlap-7 {
+  top: 662px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+}
+
+.calls .overlap-group-2 {
+  top: 742px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+}
+
+.calls .overlap-8 {
+  top: 822px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+}
+
+.calls .overlap-9 {
+  top: 902px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+}
+
+.calls .overlap-10 {
+  top: 982px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+}
+
+.calls .overlap-11 {
+  top: 1062px;
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  left: 0;
+}
+
+.calls .call-add-undefined {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  top: 722px;
+  left: 292px;
+}
+
+.calls .rectangle {
+  position: fixed;
+  width: 360px;
+  height: 100px;
+  top: 2px;
+  left: 0;
+  background-color: #085b53;
+}
+
+.calls .img {
+  position: fixed;
+  height: 24px;
+  width: 360px;
+  top: 0;
+  left: 0;
+}
+
+.calls .vector-2 {
+  position: fixed;
+  top: 28px;
+  left: 325px;
+  width: 20px;
+  height: 20px;
+}
+
+.calls .rectangle-2 {
+  position: fixed;
+  width: 120px;
+  height: 30px;
+  top: 72px;
+  left: 0;
+  background-color: #054d47;
+}
+
+.calls .rectangle-3 {
+  position: fixed;
+  width: 120px;
+  height: 30px;
+  top: 72px;
+  left: 240px;
+  background-color: #054d47;
+}
+
+.calls .rectangle-4 {
+  position: fixed;
+  width: 120px;
+  height: 30px;
+  top: 72px;
+  left: 120px;
+  background-color: #054d47;
+}
+
+.calls .text-wrapper {
+  position: fixed;
+  top: 74px;
+  left: 276px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.calls .text-wrapper-2 {
+  position: fixed;
+  top: 74px;
+  left: 148px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.calls .text-wrapper-3 {
+  position: fixed;
+  top: 74px;
+  left: 31px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.calls .union {
+  position: fixed;
+  width: 24px;
+  height: 24px;
+  top: 28px;
+  left: 291px;
+  background-image: url(./img/union.svg);
+  background-size: 100% 100%;
+}
