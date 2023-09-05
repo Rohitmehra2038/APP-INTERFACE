@@ -1,0 +1,30 @@
+.camera {
+  background-color: #23ff00;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.camera .div {
+  background-color: #23ff00;
+  width: 360px;
+  height: 800px;
+  position: relative;
+}
+
+.camera .ellipse {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 640px;
+  left: 140px;
+}
+
+.camera .arrow-export-RTL {
+  position: fixed;
+  width: 32px;
+  height: 32px;
+  top: 26px;
+  left: 317px;
+}
