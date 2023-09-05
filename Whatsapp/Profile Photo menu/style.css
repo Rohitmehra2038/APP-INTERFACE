@@ -1,0 +1,62 @@
+.profile-photo {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.profile-photo .div {
+  overflow: hidden;
+  width: 360px;
+  height: 160px;
+  position: relative;
+}
+
+.profile-photo .div-2 {
+  height: 80px;
+  top: 0;
+  background-color: #085b53;
+  border-radius: 20px;
+  position: absolute;
+  width: 360px;
+  left: 0;
+}
+
+.profile-photo .text-wrapper {
+  position: absolute;
+  width: 360px;
+  height: 60px;
+  top: 9px;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.profile-photo .overlap {
+  height: 82px;
+  top: 80px;
+  position: absolute;
+  width: 360px;
+  left: 0;
+}
+
+.profile-photo .text-wrapper-2 {
+  position: absolute;
+  width: 360px;
+  height: 80px;
+  top: 2px;
+  left: 0;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
