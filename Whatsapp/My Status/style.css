@@ -1,0 +1,15 @@
+.my-status {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.my-status .div {
+  background-image: url(./img/my-status.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 360px;
+  height: 800px;
+}
