@@ -1,0 +1,276 @@
+.feed {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.feed .div {
+  background-color: #ffffff;
+  overflow-x: hidden;
+  width: 360px;
+  height: 800px;
+  position: relative;
+}
+
+.feed .frame {
+  position: absolute;
+  width: 360px;
+  height: 40px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 30px 30px 0px 0px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.feed .frame-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px;
+  position: absolute;
+  top: 40px;
+  left: 0;
+  overflow-x: scroll;
+}
+
+.feed .frame-2 {
+  display: flex;
+  width: 537px;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+  overflow-x: scroll;
+}
+
+.feed .ellipse {
+  position: relative;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+
+.feed .rectangle {
+  position: absolute;
+  width: 360px;
+  height: 1px;
+  top: 100px;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.feed .frame-3 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  top: 106px;
+  left: 0;
+}
+
+.feed .rectangle-2 {
+  position: relative;
+  width: 360px;
+  height: 40px;
+  background-color: #f1f1f140;
+  border-radius: 5px 5px 0px 0px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #000000;
+}
+
+.feed .img {
+  position: relative;
+  width: 360px;
+  height: 360px;
+  object-fit: cover;
+}
+
+.feed .rectangle-3 {
+  position: relative;
+  width: 360px;
+  height: 40px;
+  background-color: #f1f1f140;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: #000000;
+}
+
+.feed .heart-undefined {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 408px;
+  left: 15px;
+}
+
+.feed .comment-undefined {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 408px;
+  left: 54px;
+}
+
+.feed .send-undefined-glyph {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 408px;
+  left: 93px;
+}
+
+.feed .bookmark-undefined {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 408px;
+  left: 321px;
+}
+
+.feed .ellipse-2 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 5px;
+  left: 15px;
+  object-fit: cover;
+}
+
+.feed .text-wrapper {
+  position: absolute;
+  height: 17px;
+  top: 10px;
+  left: 50px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.feed .frame-4 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  top: 551px;
+  left: 1px;
+}
+
+.feed .frame-5 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  top: 996px;
+  left: 2px;
+}
+
+.feed .frame-6 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  top: 1441px;
+  left: 3px;
+}
+
+.feed .frame-7 {
+  position: fixed;
+  width: 360px;
+  height: 40px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 30px 30px 0px 0px;
+  overflow: hidden;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: #00000033;
+}
+
+.feed .frame-8 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 62px;
+  align-items: flex-start;
+  gap: 22px 0px;
+  position: absolute;
+  top: 10px;
+  left: 273px;
+}
+
+.feed .vector {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+
+.feed .instagram {
+  position: absolute;
+  width: 55px;
+  height: 25px;
+  top: 8px;
+  left: 32px;
+}
+
+.feed .frame-9 {
+  position: fixed;
+  width: 360px;
+  height: 50px;
+  top: 751px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 0px 0px 30px 30px;
+  overflow: hidden;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #00000033;
+}
+
+.feed .vector-2 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 13px;
+  left: 169px;
+}
+
+.feed .fi-rr-home {
+  left: 25px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 13px;
+}
+
+.feed .fi-rr-user {
+  left: 311px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 13px;
+}
+
+.feed .vector-3 {
+  position: absolute;
+  width: 25px;
+  height: 22px;
+  top: 14px;
+  left: 240px;
+}
+
+.feed .union {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 13px;
+  left: 98px;
+}
