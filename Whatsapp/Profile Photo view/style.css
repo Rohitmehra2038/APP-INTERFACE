@@ -1,0 +1,23 @@
+.profile-pic {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.profile-pic .vector-wrapper {
+  background-image: url(./img/rectangle-40.png);
+  background-size: 100% 100%;
+  width: 360px;
+  height: 800px;
+  position: relative;
+}
+
+.profile-pic .vector {
+  position: absolute;
+  width: 20px;
+  height: 15px;
+  top: 26px;
+  left: 325px;
+}
