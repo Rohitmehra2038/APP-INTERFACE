@@ -1,0 +1,253 @@
+.search {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.search .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 360px;
+  height: 800px;
+  position: relative;
+}
+
+.search .rectangle {
+  width: 100px;
+  height: 100px;
+  top: 80px;
+  left: 10px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.search .img {
+  width: 100px;
+  height: 100px;
+  top: 300px;
+  left: 250px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.search .rectangle-2 {
+  width: 100px;
+  height: 100px;
+  top: 190px;
+  left: 10px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.search .rectangle-3 {
+  width: 100px;
+  height: 100px;
+  top: 410px;
+  left: 250px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.search .rectangle-4 {
+  width: 100px;
+  height: 100px;
+  top: 80px;
+  left: 130px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.search .rectangle-5 {
+  width: 100px;
+  height: 100px;
+  top: 520px;
+  left: 130px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.search .rectangle-6 {
+  width: 100px;
+  height: 100px;
+  top: 520px;
+  left: 250px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.search .rectangle-7 {
+  width: 100px;
+  height: 100px;
+  top: 740px;
+  left: 10px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.search .rectangle-8 {
+  width: 100px;
+  height: 210px;
+  top: 80px;
+  left: 250px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.search .rectangle-9 {
+  width: 100px;
+  height: 210px;
+  top: 520px;
+  left: 10px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.search .rectangle-10 {
+  width: 100px;
+  height: 100px;
+  top: 190px;
+  left: 130px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.search .rectangle-11 {
+  width: 100px;
+  height: 100px;
+  top: 630px;
+  left: 130px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.search .overlap-group {
+  position: absolute;
+  width: 350px;
+  height: 30px;
+  top: 40px;
+  left: 5px;
+  background-color: #ededed;
+  border-radius: 30px;
+}
+
+.search .union {
+  top: 3px;
+  left: 21px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.search .rectangle-12 {
+  width: 100px;
+  height: 100px;
+  top: 630px;
+  left: 250px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.search .rectangle-13 {
+  width: 100px;
+  height: 100px;
+  top: 850px;
+  left: 10px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.search .rectangle-14 {
+  width: 220px;
+  height: 210px;
+  top: 300px;
+  left: 10px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.search .rectangle-15 {
+  width: 220px;
+  height: 210px;
+  top: 740px;
+  left: 130px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.search .frame {
+  height: 50px;
+  top: 750px;
+  border-radius: 0px 0px 30px 30px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  position: fixed;
+  width: 360px;
+  left: 0;
+  background-color: #ffffff;
+  overflow: hidden;
+  border-color: #00000033;
+}
+
+.search .vector {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 13px;
+  left: 169px;
+}
+
+.search .fi-rr-home {
+  left: 25px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 13px;
+}
+
+.search .fi-rr-user {
+  left: 311px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 13px;
+}
+
+.search .vector-2 {
+  position: absolute;
+  width: 25px;
+  height: 22px;
+  top: 14px;
+  left: 240px;
+}
+
+.search .union-2 {
+  top: 13px;
+  left: 98px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+
+.search .instagram-wrapper {
+  height: 40px;
+  top: 0;
+  border-radius: 30px 30px 0px 0px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  position: fixed;
+  width: 360px;
+  left: 0;
+  background-color: #ffffff;
+  overflow: hidden;
+  border-color: #00000033;
+}
+
+.search .instagram {
+  position: absolute;
+  width: 55px;
+  height: 25px;
+  top: 8px;
+  left: 32px;
+}
