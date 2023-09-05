@@ -1,0 +1,15 @@
+.story {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.story .div {
+  background-image: url(./img/story-01.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 360px;
+  height: 800px;
+}
