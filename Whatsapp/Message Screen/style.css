@@ -1,0 +1,361 @@
+.message-screen {
+  display: flex;
+  flex-direction: column;
+  height: 800px;
+  align-items: flex-start;
+  position: relative;
+  background-color: #e8e0d5;
+}
+
+.message-screen .div {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.message-screen .notification-bar {
+  display: flex;
+  width: 360px;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #054d47;
+}
+
+.message-screen .text-wrapper {
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 12px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.message-screen .img {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.message-screen .header {
+  display: flex;
+  width: 360px;
+  align-items: center;
+  gap: 4px;
+  padding: 16px 12px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #085b53;
+}
+
+.message-screen .arrow-back {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+
+.message-screen .vector {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 1787px;
+  left: -2066px;
+}
+
+.message-screen .vector-2 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 4px;
+  left: 4px;
+}
+
+.message-screen .business-details {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.message-screen .business-logo {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-color: #c4c4c4;
+  border-radius: 16px;
+}
+
+.message-screen .business-name {
+  gap: 4px;
+  display: flex;
+  align-items: center;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.message-screen .text-wrapper-2 {
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 18px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.message-screen .verified-black {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+
+.message-screen .messagesstack-play {
+  display: flex;
+  flex-direction: column;
+  width: 360px;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 48px 4px 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.message-screen .div-2 {
+  display: flex;
+  width: 352px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.message-screen .bubble-vector {
+  position: relative;
+  width: 7px;
+  height: 7px;
+}
+
+.message-screen .message-container {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  padding: 8px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+  border-radius: 0px 4px 4px 4px;
+}
+
+.message-screen .message-text {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+  max-width: var(--variable-collection-message-text-max-width);
+}
+
+.message-screen .time-stamp {
+  position: relative;
+  align-self: stretch;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #9da3a7;
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.message-screen .message {
+  display: flex;
+  width: 352px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.message-screen .message-container-2 {
+  display: inline-flex;
+  flex: 0 0 auto;
+  border-radius: 4px 0px 4px 4px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  padding: 8px;
+  position: relative;
+  background-color: #d3ffc8;
+}
+
+.message-screen .message-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.message-screen .p {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  max-width: var(--variable-collection-message-text-max-width);
+}
+
+.message-screen .span {
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+}
+
+.message-screen .text-wrapper-3 {
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+}
+
+.message-screen .bubble-vector-2 {
+  margin-bottom: -1261px;
+  margin-left: -2058px;
+  position: relative;
+  width: 7px;
+  height: 7px;
+}
+
+.message-screen .button-container {
+  display: flex;
+  width: 282px;
+  height: 35px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 4px;
+  padding: 8px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 4px;
+}
+
+.message-screen .icons {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  margin-bottom: -1px;
+}
+
+.message-screen .button-text {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #0096de;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.message-screen .bubble-vector-3 {
+  margin-bottom: -1222px;
+  margin-left: -2058px;
+  position: relative;
+  width: 7px;
+  height: 7px;
+}
+
+.message-screen .message-container-3 {
+  display: flex;
+  width: 282px;
+  border-radius: 4px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  padding: 8px;
+  position: relative;
+  background-color: #d3ffc8;
+}
+
+.message-screen .bubble-vector-4 {
+  margin-bottom: -1159px;
+  margin-left: -1706px;
+  position: relative;
+  width: 7px;
+  height: 7px;
+}
+
+.message-screen .inputbox-avoid {
+  display: flex;
+  width: 360px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2px 4px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.message-screen .message-3 {
+  display: flex;
+  width: 298px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 36px;
+}
+
+.message-screen .frame {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 4px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.message-screen .tag-faces-black {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.message-screen .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #9da3a7;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
