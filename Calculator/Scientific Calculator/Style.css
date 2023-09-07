@@ -1,1 +1,1188 @@
+.scientific {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.scientific .overlap-wrapper {
+  background-color: #ffffff;
+  width: 430px;
+  height: 932px;
+}
+
+.scientific .overlap {
+  position: relative;
+  top: 24px;
+  left: 12px;
+  width: 412px;
+  height: 888px;
+}
+
+.scientific .overlap-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 412px;
+  height: 888px;
+}
+
+.scientific .rectangle {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 417px;
+  left: 217px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .div {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 547px;
+  left: 217px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .text-wrapper {
+  height: 48px;
+  top: 546px;
+  left: 254px;
+  color: #00ff0a;
+  font-size: 40px;
+  white-space: nowrap;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .rectangle-2 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 677px;
+  left: 217px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-3 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 807px;
+  left: 217px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .text-wrapper-2 {
+  height: 58px;
+  top: 802px;
+  left: 252px;
+  color: #00ff0a;
+  font-size: 48px;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .rectangle-4 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 27px;
+  left: 217px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-5 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 417px;
+  left: -23px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .text-wrapper-3 {
+  height: 48px;
+  top: 417px;
+  left: -3px;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .rectangle-6 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 547px;
+  left: -23px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .text-wrapper-4 {
+  position: absolute;
+  height: 48px;
+  top: 547px;
+  left: 13px;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.scientific .rectangle-7 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 677px;
+  left: -23px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-8 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 807px;
+  left: -23px;
+  background-color: #00ff0a;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-9 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 27px;
+  left: -23px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-10 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 417px;
+  left: 37px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-11 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 547px;
+  left: 37px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-12 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 677px;
+  left: 37px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-13 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 807px;
+  left: 37px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-14 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 27px;
+  left: 37px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-15 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 417px;
+  left: 97px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-16 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 547px;
+  left: 97px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-17 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 677px;
+  left: 97px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-18 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 807px;
+  left: 97px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .text-wrapper-5 {
+  height: 58px;
+  top: 802px;
+  left: 138px;
+  color: #00ff0a;
+  font-size: 48px;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .rectangle-19 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 27px;
+  left: 97px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-20 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 417px;
+  left: 157px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .text-wrapper-6 {
+  height: 48px;
+  top: 417px;
+  left: 195px;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .rectangle-21 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 547px;
+  left: 157px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-22 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 677px;
+  left: 157px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .text-wrapper-7 {
+  height: 48px;
+  top: 676px;
+  left: 194px;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .rectangle-23 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 807px;
+  left: 157px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-24 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 27px;
+  left: 157px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-25 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 157px;
+  left: 217px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-26 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 287px;
+  left: 217px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-27 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 157px;
+  left: -23px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .text-wrapper-8 {
+  height: 36px;
+  top: 166px;
+  left: 16px;
+  color: #000000cc;
+  font-size: 30px;
+  white-space: nowrap;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-9 {
+  position: absolute;
+  height: 18px;
+  top: 54px;
+  left: 92px;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.scientific .rectangle-28 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 287px;
+  left: -23px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-29 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 157px;
+  left: 37px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-30 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 287px;
+  left: 37px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .text-wrapper-10 {
+  height: 29px;
+  top: 296px;
+  left: 80px;
+  color: #000000;
+  font-size: 24px;
+  text-align: right;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .rectangle-31 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 157px;
+  left: 97px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-32 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 287px;
+  left: 97px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-33 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 157px;
+  left: 157px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-34 {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 287px;
+  left: 157px;
+  background-color: #d9d9d9;
+  border-radius: 50px;
+  transform: rotate(90deg);
+}
+
+.scientific .line {
+  position: absolute;
+  width: 9px;
+  height: 888px;
+  top: 0;
+  left: 303px;
+  object-fit: cover;
+}
+
+.scientific .recent {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 40px;
+  left: 312px;
+}
+
+.scientific .scale {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: absolute;
+  top: 174px;
+  left: 307px;
+  transform: rotate(90deg);
+}
+
+.scientific .rectangle-35 {
+  position: relative;
+  width: 35px;
+  height: 15px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #000000b2;
+}
+
+.scientific .img {
+  position: absolute;
+  width: 8px;
+  height: 1px;
+  top: 5px;
+  left: 13px;
+  transform: rotate(-90deg);
+  object-fit: cover;
+}
+
+.scientific .line-2 {
+  position: absolute;
+  width: 8px;
+  height: 1px;
+  top: 5px;
+  left: 1px;
+  transform: rotate(-90deg);
+  object-fit: cover;
+}
+
+.scientific .line-3 {
+  position: absolute;
+  width: 8px;
+  height: 1px;
+  top: 5px;
+  left: 26px;
+  transform: rotate(-90deg);
+  object-fit: cover;
+}
+
+.scientific .line-4 {
+  position: absolute;
+  width: 6px;
+  height: 1px;
+  top: 3px;
+  left: 9px;
+  transform: rotate(-90deg);
+  object-fit: cover;
+}
+
+.scientific .line-5 {
+  position: absolute;
+  width: 6px;
+  height: 1px;
+  top: 3px;
+  left: 22px;
+  transform: rotate(-90deg);
+  object-fit: cover;
+}
+
+.scientific .rectangle-36 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 299px;
+  left: 312px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #00000080;
+  transform: rotate(90deg);
+}
+
+.scientific .text-wrapper-11 {
+  height: 15px;
+  top: 299px;
+  left: 317px;
+  color: #00000080;
+  font-size: 12px;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-12 {
+  height: 15px;
+  top: 310px;
+  left: 328px;
+  color: #00000080;
+  font-size: 12px;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-13 {
+  height: 15px;
+  top: 299px;
+  left: 326px;
+  color: #00000080;
+  font-size: 12px;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-14 {
+  height: 15px;
+  top: 309px;
+  left: 316px;
+  color: #00000080;
+  font-size: 12px;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-15 {
+  height: 58px;
+  top: 800px;
+  left: 12px;
+  color: #ffffff;
+  font-size: 48px;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-16 {
+  height: 58px;
+  top: 802px;
+  left: 74px;
+  color: #00ff0a;
+  font-size: 48px;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-17 {
+  height: 58px;
+  top: 802px;
+  left: 195px;
+  color: #00ff0a;
+  font-size: 48px;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-18 {
+  height: 48px;
+  top: 674px;
+  left: 248px;
+  color: #00ff0a;
+  font-size: 40px;
+  white-space: nowrap;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-19 {
+  position: absolute;
+  height: 48px;
+  top: 416px;
+  left: 252px;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #f60000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.scientific .text-wrapper-20 {
+  height: 48px;
+  top: 677px;
+  left: 32px;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-21 {
+  height: 48px;
+  top: 417px;
+  left: 77px;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-22 {
+  height: 48px;
+  top: 547px;
+  left: 74px;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-23 {
+  height: 48px;
+  top: 676px;
+  left: 74px;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-24 {
+  height: 48px;
+  top: 417px;
+  left: 133px;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-25 {
+  height: 48px;
+  top: 547px;
+  left: 134px;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-26 {
+  height: 48px;
+  top: 676px;
+  left: 134px;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-27 {
+  height: 48px;
+  top: 546px;
+  left: 194px;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-28 {
+  height: 36px;
+  top: 704px;
+  left: 299px;
+  color: #000000;
+  font-size: 30px;
+  text-align: right;
+  white-space: nowrap;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-29 {
+  position: absolute;
+  height: 29px;
+  top: 35px;
+  left: 190px;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-30 {
+  position: absolute;
+  height: 29px;
+  top: 166px;
+  left: 186px;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-31 {
+  position: absolute;
+  height: 29px;
+  top: 296px;
+  left: 188px;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-32 {
+  position: absolute;
+  height: 29px;
+  top: 36px;
+  left: 136px;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-33 {
+  position: absolute;
+  height: 29px;
+  top: 166px;
+  left: 129px;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-34 {
+  position: absolute;
+  height: 29px;
+  top: 296px;
+  left: 130px;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-35 {
+  height: 29px;
+  top: 36px;
+  left: 10px;
+  color: #000000;
+  font-size: 24px;
+  text-align: right;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-36 {
+  position: absolute;
+  height: 29px;
+  top: 167px;
+  left: 245px;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-37 {
+  position: absolute;
+  height: 29px;
+  top: 296px;
+  left: 20px;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-38 {
+  position: absolute;
+  height: 29px;
+  top: 36px;
+  left: 80px;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-39 {
+  height: 29px;
+  top: 166px;
+  left: 80px;
+  color: #000000;
+  font-size: 24px;
+  text-align: right;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-40 {
+  height: 18px;
+  top: 184px;
+  left: 91px;
+  color: #000000;
+  font-size: 15px;
+  text-align: right;
+  white-space: nowrap;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .text-wrapper-41 {
+  position: absolute;
+  height: 18px;
+  top: 314px;
+  left: 92px;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 15px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.scientific .line-6 {
+  position: absolute;
+  width: 15px;
+  height: 42px;
+  top: 31px;
+  left: 269px;
+}
+
+.scientific .line-7 {
+  position: absolute;
+  width: 15px;
+  height: 42px;
+  top: 31px;
+  left: 251px;
+}
+
+.scientific .text-wrapper-42 {
+  height: 36px;
+  top: 290px;
+  left: 256px;
+  color: #000000;
+  font-size: 30px;
+  text-align: right;
+  white-space: nowrap;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.scientific .line-8 {
+  position: absolute;
+  width: 4px;
+  height: 10px;
+  top: 317px;
+  left: 274px;
+}
+
+.scientific .delete {
+  position: absolute;
+  width: 20px;
+  height: 24px;
+  top: 819px;
+  left: 317px;
+}
+
+.scientific .text-wrapper-43 {
+  height: 29px;
+  top: 777px;
+  left: 329px;
+  color: #000000cc;
+  font-size: 24px;
+  text-align: right;
+  position: absolute;
+  transform: rotate(90deg);
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
 
