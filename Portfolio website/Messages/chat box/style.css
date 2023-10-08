@@ -1,0 +1,230 @@
+.brooklyn-chat {
+  display: inline-flex;
+  flex-direction: column;
+  height: 500px;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  background-color: #ffffff;
+}
+
+.brooklyn-chat .div {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.brooklyn-chat .frame {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 355px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.brooklyn-chat .rectangle {
+  position: relative;
+  width: 620px;
+  height: 30px;
+  background-color: #e4f7f9;
+  border-radius: 0px 20px 0px 0px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: #00000033;
+}
+
+.brooklyn-chat .chat-head {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 377px;
+  position: absolute;
+  top: 3px;
+  left: 30px;
+}
+
+.brooklyn-chat .frame-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.brooklyn-chat .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.brooklyn-chat .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.brooklyn-chat .img {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.brooklyn-chat .bottom-chat-box {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.brooklyn-chat .frame-3 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.brooklyn-chat .line {
+  margin-top: -1px;
+  position: relative;
+  width: 620px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.brooklyn-chat .div-wrapper {
+  display: flex;
+  width: 550px;
+  align-items: center;
+  gap: 10px;
+  padding: 15px 25px;
+  background-color: #d9d9d933;
+  border-radius: 20px;
+  overflow: hidden;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.brooklyn-chat .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000080;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.brooklyn-chat .line-2 {
+  position: relative;
+  width: 620px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.brooklyn-chat .bottom-icon {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 238px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.brooklyn-chat .frame-4 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 27px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.brooklyn-chat .frame-5 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 6px 13px;
+  background-color: #d9d9d980;
+  border-radius: 20px;
+  overflow: hidden;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.brooklyn-chat .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000080;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.brooklyn-chat .more-horizontal {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+
+.brooklyn-chat .inbox-profile {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3px;
+  position: absolute;
+  top: 45px;
+  left: 15px;
+}
+
+.brooklyn-chat .ellipse {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.brooklyn-chat .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.brooklyn-chat .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000080;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
