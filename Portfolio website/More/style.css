@@ -1,0 +1,86 @@
+.more {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.more .div {
+  background-color: #ffffff;
+  width: 300px;
+  height: 300px;
+  position: relative;
+}
+
+.more .briefcase-undefined {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 125px;
+  left: 25px;
+}
+
+.more .poll-undefined-glyph {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 125px;
+  left: 225px;
+}
+
+.more .pin-undefined-glyph {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 225px;
+  left: 125px;
+}
+
+.more .people-team {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 25px;
+  left: 225px;
+}
+
+.more .location-live {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 225px;
+  left: 25px;
+}
+
+.more .document-CSS {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 25px;
+  left: 25px;
+}
+
+.more .data-area-undefined {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 125px;
+  left: 125px;
+}
+
+.more .compass-northwest {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 225px;
+  left: 225px;
+}
+
+.more .video-clip-undefined {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 25px;
+  left: 125px;
+}
